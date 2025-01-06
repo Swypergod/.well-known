@@ -15,7 +15,7 @@ type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https:google.com"
+url = "https://google.com"
 type = "website"
 title = "Token Info Dashboard"
 
