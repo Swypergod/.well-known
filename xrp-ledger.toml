@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rKYKG2E6ZAo6urPY1N8YWrwwcNAyKUnTN3"
-name = "PLXX"
+address = "rLja6KmEhFx4HsvmxA1pmGyn1Kg3udNrvA"
+name = "BLACK"
 
 [[TOKENS]]
-issuer = "rKYKG2E6ZAo6urPY1N8YWrwwcNAyKUnTN3"
-currency = "PLXX"
-name = "PLXX"
-desc = "PLXX"
+issuer = "rLja6KmEhFx4HsvmxA1pmGyn1Kg3udNrvA"
+currency = "BLACK"
+name = "BLACK"
+desc = "BLACK"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
