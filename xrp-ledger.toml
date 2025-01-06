@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-name = "CasinoCoin"
+address = "rKYKG2E6ZAo6urPY1N8YWrwwcNAyKUnTN3"
+name = "BLXX"
 
 [[TOKENS]]
-issuer = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-currency = "CSC"
-name = "CasinoCoin"
-desc = "CasinoCoin (CSC) is a digital currency, developed specifically for the regulated gaming industry."
+issuer = "rKYKG2E6ZAo6urPY1N8YWrwwcNAyKUnTN3"
+currency = "BLXX"
+name = "BLXX"
+desc = "BLX"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
